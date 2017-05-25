@@ -1,0 +1,60 @@
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\csc.exe
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\vbc.exe
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\VBCSCompiler.exe
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.dll.config
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.pdb
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.csprojResolveAssemblyReference.cache
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.dll
+C:\Users\User01\Desktop\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.pdb
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\csc.exe
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\vbc.exe
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\VBCSCompiler.exe
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.dll.config
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.pdb
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.csprojResolveAssemblyReference.cache
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.dll
+C:\Users\User01\Desktop\coursework_database\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.pdb
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\csc.exe
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\vbc.exe
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\VBCSCompiler.exe
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.dll.config
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\UniversalSportsHub_Bina.pdb
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.csprojResolveAssemblyReference.cache
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.dll
+C:\Users\User01\Desktop\2016-17 A CC6001NI A1 CW Coursework 14047030 Bina Bade\UniversalSportsHub_Bina\UniversalSportsHub_Bina\obj\Debug\UniversalSportsHub_Bina.pdb
